@@ -26,8 +26,8 @@ Tested on **R36S with ArkOS**. Other RK3326 devices (RG351x, RGB20S, GameForce C
    roms/ports/Head Over Heels.sh
    roms/ports/headoverheels/   (box64, winebin64/, weston_pkg.squashfs, ...)
    ```
-3. **Get the game** (not included — it's Retrospec's freeware, grab it from them):
-   - Download the free remake from Retrospec: http://retrospec.sgn.net/game/hoh
+3. **Get the game** (not included — it's Retrospec's freeware):
+   - Download the free 2003 remake here: https://www.old-games.com/download/5770/head-over-heels
    - Install or extract it on a PC.
 4. Copy the **contents** of the installed game folder into:
    ```
@@ -92,7 +92,7 @@ Rode o clássico **Head Over Heels** (remake de 2003 da **Retrospec** para Windo
 
 1. Baixe o **`headoverheels-r36s.zip`** na [página de Releases](../../releases) (~250MB).
 2. Extraia dentro da pasta **`ports`** do cartão de roms (fica `roms/ports/Head Over Heels.sh` + `roms/ports/headoverheels/`).
-3. **Baixe o jogo** (não incluído — é freeware da Retrospec): http://retrospec.sgn.net/game/hoh — instale/extraia num PC.
+3. **Baixe o jogo** (não incluído — é freeware da Retrospec): https://www.old-games.com/download/5770/head-over-heels — instale/extraia num PC.
 4. Copie o **conteúdo** da pasta do jogo para `roms/ports/headoverheels/gamedata/` (precisa ter `HoH.exe`, `HoHOriginal.dat`, `Sound/`…). O `alleg40.dll` é trocado automaticamente por uma cópia descompactada (a original trava o Box64).
 5. Atualize a lista de jogos e abra **Head Over Heels** em Ports.
 
