@@ -1,0 +1,8 @@
+# binarios grandes ficam no Release, nao no repo
+*.tar.gz
+*.squashfs
+*.zip
+box64
+winebin64/
+gamedata/
+*.log
